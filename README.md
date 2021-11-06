@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋 soy Elí
+
+Un desarrollador `semi-senior` amante de la tecnología y con ganas de seguir siempre aprendiendo
 
 <!--
 **EliMacMun/EliMacMun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
