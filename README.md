@@ -1,4 +1,6 @@
-### Hola 👋 soy Elí
+<div align="center">
+<h2> Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> soy Elí</h2>
+</div>
 
 Un desarrollador `semi-senior` amante de la tecnología y con ganas de seguir siempre aprendiendo
 
@@ -16,7 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 👯 Actualmente estoy colaborando con [Oneki Devs](https://github.com/onekidevs) desarrollando un bot de discord multifuncional llamado [Oneki Bot](https://github.com/OnekiDevs/Oneki-bot) y su [página web](https://oneki.herokuapp.com/)
+
 
 ## Mis estadísticas de Github
 ![eliyya stats](https://github-readme-stats.vercel.app/api?username=eliyya&hide=issues&show_icons=true&theme=gotham)
