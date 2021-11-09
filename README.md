@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👯 Actualmente estoy colaborando con [Oneki Devs](https://github.com/onekidevs) desarrollando un bot de discord multifuncional llamado [Oneki Bot](https://github.com/OnekiDevs/Oneki-bot) y su [página web](https://oneki.herokuapp.com/)
+
+## Mis estadísticas de Github
+![eliyya stats](https://github-readme-stats.vercel.app/api?username=eliyya&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliyya&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
