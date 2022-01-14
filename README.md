@@ -2,7 +2,7 @@
 <h2> Hola <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> soy Elí</h2>
 </div>
 
-Un desarrollador `semi-senior` amante de la tecnología y con ganas de seguir siempre aprendiendo
+Un programador `semi-senior`, estudiante de mecatrónica, amante de la tecnología y con ganas de seguir siempre aprendiendo.
 
 <!--
 **EliMacMun/EliMacMun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
